@@ -9,7 +9,7 @@
 
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
-|  |  |  |
+| Cláudio Manoel | 2418865 | TolkYo |
 
 ## O cenário
 
